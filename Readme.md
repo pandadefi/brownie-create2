@@ -4,6 +4,8 @@ Simple example contract to deploy a contract using create2.
 
 ## Deployed Factories
 
+- ETH mainnet: 0x62349c8510de543e0bf77df87f548a1d5f642e7b
+
 
 ## How can I use this project
 
